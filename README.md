@@ -7,5 +7,7 @@ Este un repositorio de universitario
 
 ##Para encontrar la mayoría de los GO terms asociados a un genoma usamos el siguiente script en R.
 
-get_allGOs.R
+https://github.com/jmvillalobos/TrabajoRed/blob/main/get_allGOs.R
+
+
 
